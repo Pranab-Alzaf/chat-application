@@ -1,0 +1,21 @@
+[
+  {
+    "lebel": "Color Scheme",
+    "option": ["-----", "Light color Scheme", "Dark Color Scheme"],
+    "optionThenLocation": {
+      "lebel": "Location",
+      "option": [
+        "landing Page",
+        "sidebar",
+        "Chat page",
+        "Left Side Content",
+        "Audio player",
+        "from",
+        "info Panal",
+        "WalCome screen",
+        "custom page",
+        "Chat window"
+      ]
+    }
+  }
+]
